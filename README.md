@@ -53,13 +53,13 @@ B站UP主的[遇见狂神说](https://space.bilibili.com/95256449)：[Java学习
 
 - 参考视频：[【狂神说Java】多线程详解](https://www.bilibili.com/video/BV1V4411p7EF)
 
-- 形成笔记：[多线程基础](./00 JAVA基础/2020.11.09 多线程.md)
+- 形成笔记：多线程基础
 
 #### 3.1.3 注解与反射
 
 - 参考视频：[【狂神说Java】注解和反射](https://www.bilibili.com/video/BV1p4411P7V3)
 
-- 形成笔记：[注解与反射](./00 JAVA基础/2020.11.10 注解与反射.md)
+- 形成笔记：注解与反射
 
 #### 3.1.4 网络编程
 
@@ -72,16 +72,16 @@ B站UP主的[遇见狂神说](https://space.bilibili.com/95256449)：[Java学习
 #### Linux
 
 - 参考视频：[【狂神说Java】Linux最通俗易懂的教程](https://www.bilibili.com/video/BV187411y7hF)
-- 形成笔记：[Linux](./07 Linux相关/2020.09.27 Linux.md)
+- 形成笔记：Linux
 
 #### git
 
 - 参考视频：[【狂神说Java】Git最新教程通俗易懂](https://www.bilibili.com/video/BV1FE411P7B3)
 - 阅读书籍：《精通Git（第2版）》
-- 形成笔记：[Git笔记](./07 Linux相关/2020.09.29 Git.md)
+- 形成笔记：Git笔记
 
 #### Docker
 
 - 参考视频：[【狂神说Java】Docker](https://www.bilibili.com/video/BV1og4y1q7M4)
 - 阅读书籍：《第一本Dokcer书》
-- 形成笔记：[Docker](./07 Linux相关/2020.09.23 Docker.md)
+- 形成笔记：Docker
