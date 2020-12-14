@@ -30,6 +30,9 @@ B站UP主的[遇见狂神说](https://space.bilibili.com/95256449)：[Java学习
 **进阶阶段**
 
 - 《正则表达式必知必会（修订版）》 Ben Forta著
+- 《Java高并发程序设计（第二版）》葛一鸣著
+- 《Java并发编程之美》翟陆续等著
+- 《深入理解Java虚拟机（第三版）》周志明著
 
 #### 2.2.2  数据结构与算法
 
@@ -65,7 +68,10 @@ B站UP主的[遇见狂神说](https://space.bilibili.com/95256449)：[Java学习
 
 ### 3.2 JAVA 进阶
 
+#### 3.2.1 JVM
 
+- 参考视频：[宋红康JVM教程(java虚拟机详解，jvm从入门到精通)](https://www.bilibili.com/video/BV1PJ411n7xZ?p=1)，不得不说这个课是真的好。
+- 形成笔记：JVM
 
 ### 其他
 
