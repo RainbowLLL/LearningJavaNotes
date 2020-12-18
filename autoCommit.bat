@@ -8,5 +8,6 @@ git add .
 git commit -m ":recycle: auto commit"
       
 :: 同时推送到两个仓库
-git push github master 
 git push gitee master
+git push github master 
+
