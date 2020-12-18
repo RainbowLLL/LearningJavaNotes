@@ -5,7 +5,8 @@ cd Documents\Markdown文档\01 JAVA 学习笔记
 :: 添加修改
 git add .         
 :: 自动push学习笔记，auto commit是自定义的                  
-git commit -m ":recycle: auto commit"      
+git commit -m ":recycle: auto commit"
+      
 :: 同时推送到两个仓库
 git push -u github master 
 git push -u gitee master
