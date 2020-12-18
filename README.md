@@ -41,7 +41,7 @@ Git、Docke
 | (1)  | :memo:             | 更新文档，包括但不限于README                         | `:memo:`             |
 | (2)  | :bulb:             | 发布新的学习笔记                                     | `:bulb:`             |
 | (3)  | :sparkles:         | 增量更新学习笔记                                     | `:sparkles:`         |
-| (4)  | :recycle:          | 重构，主要指修改已有的学习笔记                       | `:recycle:`          |
+| (4)  | :recycle:          | 自动更新学习笔记                                     | `:recycle:`          |
 | (5)  | :pencil2:          | 校对，主要指更正错别字、调整笔记分组、修改笔记排版等 | `:pencil2:`          |
 | (6)  | :white_check_mark: | 发布测试文件                                         | `:white_check_mark:` |
 
