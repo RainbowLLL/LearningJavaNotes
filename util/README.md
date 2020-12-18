@@ -16,10 +16,13 @@ git add .
 :: 自动push学习笔记，auto commit是自定义的                  
 git commit -m ":recycle: auto commit"      
 :: 同时推送到两个仓库
-git push -u github master 
 git push -u gitee master
-
+git push -u github master 
 ```
+
+但是如果路径、文件名含有中文的话，就无法识别了，但是可以通过转码来解决这个问题；默认的bat的编码格式是UTF-8，这时只需将其转换成==ANSI 格式==即可；
+
+![在这里插入图片描述](https://aliyun-typora-img.oss-cn-beijing.aliyuncs.com/imgs/20201218175847.png)
 
 ## 2. 让脚本自动化
 
