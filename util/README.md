@@ -85,4 +85,8 @@ git push -u gitee master
 
    
 
-8. 完成
+8. 隐藏黑框：SYSTEM 账户执行批处理
+
+   ![img](https://cyhour.com/wp-content/uploads/2018/08/809-system.png)
+
+   SYSTEM 是系统账户，使用它来执行程序相当于在后台隐藏运行，所以黑框就不会出来了！
