@@ -1,12 +1,12 @@
-:: è¿™æ˜¯æˆ‘è„šæœ¬æ”¾çš„ç›˜ï¼Œæˆ‘æ”¾åœ¨Dç›˜ä¸­
+:: ÕâÊÇÎÒ½Å±¾·ÅµÄÅÌ£¬ÎÒ·ÅÔÚDÅÌÖĞ
 d:       
-:: è¿™æ˜¯è„šæœ¬çš„å…·ä½“è·¯å¾„ï¼ŒD:\Documents\Markdownæ–‡æ¡£\01 JAVA å­¦ä¹ ç¬”è®°\util                         
-cd Documents\Markdownæ–‡æ¡£\01 JAVA å­¦ä¹ ç¬”è®°                         
-:: æ·»åŠ ä¿®æ”¹
+:: ÕâÊÇ½Å±¾µÄ¾ßÌåÂ·¾¶£¬D:\Documents\MarkdownÎÄµµ\01 JAVA Ñ§Ï°±Ê¼Ç\util                         
+cd Documents\MarkdownÎÄµµ\01 JAVA Ñ§Ï°±Ê¼Ç                         
+:: Ìí¼ÓĞŞ¸Ä
 git add .         
-:: è‡ªåŠ¨pushå­¦ä¹ ç¬”è®°ï¼Œauto commitæ˜¯è‡ªå®šä¹‰çš„                  
+:: ×Ô¶¯pushÑ§Ï°±Ê¼Ç£¬auto commitÊÇ×Ô¶¨ÒåµÄ                  
 git commit -m ":recycle: auto commit"
       
-:: åŒæ—¶æ¨é€åˆ°ä¸¤ä¸ªä»“åº“
+:: Í¬Ê±ÍÆËÍµ½Á½¸ö²Ö¿â
 git push github master 
 git push gitee master
