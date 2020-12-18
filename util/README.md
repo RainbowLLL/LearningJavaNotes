@@ -81,9 +81,7 @@ git push -u gitee master
 
 7. 把脚本放进去
 
-   
-
-   ![image-20200226194647327](https://aliyun-typora-img.oss-cn-beijing.aliyuncs.com/imgs/20201218113234.webp)
+   ![image-20201218114229047](https://aliyun-typora-img.oss-cn-beijing.aliyuncs.com/imgs/20201218114229.png)
 
    
 
