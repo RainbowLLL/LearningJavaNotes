@@ -30,8 +30,8 @@ Git、Docke
 
 ### 1.2  仓库地址
 
-- Gitee：
-- Github：
+- Gitee：https://gitee.com/Reanon/learning-java-notes
+- Github：https://github.com/Reanon/LearningJavaNotes
 
 ### 1.3 Commit图例
 
